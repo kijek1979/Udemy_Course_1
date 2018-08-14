@@ -11,11 +11,13 @@ public class MainMethods {
 //        System.out.println(addTwoNumbers(a, b));
 //        subTwoNumbers(a, b);
 
-        int score = 10;
-        String name = "jarek";
+//        int score = 1652;
+//        String name = "jarek";
+//
+//        int playerPositionOnHighScoreTable = calculateHighScorePosition(score);
+//        displayHighScorePosition(name, playerPositionOnHighScoreTable);
 
-        int playerPositionOnHighScoreTable = calculateHighScorePosition(score);
-        displayHighScorePosition(name, playerPositionOnHighScoreTable);
+        System.out.println(isLeapYear(1800));
 
 
     }
@@ -35,11 +37,28 @@ public class MainMethods {
     public static int calculateHighScorePosition(int playerScore){
         if(playerScore >= 1000){
             return 1;
-        }else if(playerScore > 500 && playerScore <= 1000){
+        }else if(playerScore >= 500){
             return 2;
-        }else if (playerScore > 100 && playerScore <= 500){
+        }else if (playerScore >= 100){
             return 3;
         }
+
         return 4;
+    }
+
+    public static boolean isLeapYear (int year){
+
+        if(year >=1 && year <=9999){
+
+            if((year%4==0 && year%100!=0) ||(year%400==0)){
+                return true;
+            }else {
+                return false;
+            }
+
+            }
+
+
+        return false;
     }
 }

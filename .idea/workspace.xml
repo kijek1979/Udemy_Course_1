@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd4d8a8e-b9d3-4736-85ca-94c020ad6a14" name="Default" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/section_5/methods/barking_dog_excer/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section_5/methods/barking_dog_excer/AnimalAlarm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section_5/methods/barking_dog_excer/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section_5/methods/barking_dog_excer/MainBarking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section_5/methods/megabytes_converter_excersise/MainMegaBytes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section_5/methods/megabytes_converter_excersise/Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section_5/methods/megabytes_converter_excersise/Parameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section_5/methods/method_demo_excersise/MainDemoExcersise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section_5/methods/method_demo_excersise/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_5/methods/decimal_comparator_excer/DecimalComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_5/methods/equal_sum_checker_excer/EqualSumChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/EqualByThreeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section_5/methods/MainMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section_5/methods/MainMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/section_5/methods/MainMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/section_5/methods/MainMethods.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,59 +20,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Animal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/barking_dog_excer/Animal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-              <folding>
-                <element signature="e#139#140#0" expanded="true" />
-                <element signature="e#175#176#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
-                <element signature="e#237#238#0" expanded="true" />
-                <element signature="e#281#282#0" expanded="true" />
-                <element signature="e#317#318#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Dog.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/barking_dog_excer/Dog.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-              <folding>
-                <element signature="e#112#113#0" expanded="true" />
-                <element signature="e#148#149#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AnimalAlarm.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/barking_dog_excer/AnimalAlarm.java">
+      <file leaf-file-name="EqualSumChecker.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/equal_sum_checker_excer/EqualSumChecker.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainBarking.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/barking_dog_excer/MainBarking.java">
+      <file leaf-file-name="DecimalComparator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/decimal_comparator_excer/DecimalComparator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+            <state relative-caret-position="289">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainMethods.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/MainMethods.java">
+      <file leaf-file-name="EqualByThreeTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/EqualByThreeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="54" column="19" lean-forward="true" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+            <state relative-caret-position="935">
+              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1155#1156#0" expanded="true" />
+                <element signature="e#1210#1211#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -113,6 +82,9 @@
         <option value="$PROJECT_DIR$/src/main/java/section_5/methods/barking_dog_excer/AnimalAlarm.java" />
         <option value="$PROJECT_DIR$/src/main/java/section_5/methods/barking_dog_excer/MainBarking.java" />
         <option value="$PROJECT_DIR$/src/main/java/section_5/methods/MainMethods.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_5/methods/decimal_comparator_excer/DecimalComparator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_5/methods/equal_sum_checker_excer/EqualSumChecker.java" />
+        <option value="$PROJECT_DIR$/src/test/java/EqualByThreeTest.java" />
       </list>
     </option>
   </component>
@@ -126,10 +98,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="133" />
-    <option name="y" value="184" />
-    <option name="width" value="891" />
-    <option name="height" value="718" />
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -139,6 +111,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,13 +166,43 @@
               <item name="methods" type="462c0819:PsiDirectoryNode" />
               <item name="barking_dog_excer" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Udemy_Course_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy_Course_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="section_5" type="462c0819:PsiDirectoryNode" />
+              <item name="methods" type="462c0819:PsiDirectoryNode" />
+              <item name="decimal_comparator_excer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Udemy_Course_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy_Course_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="section_5" type="462c0819:PsiDirectoryNode" />
+              <item name="methods" type="462c0819:PsiDirectoryNode" />
+              <item name="megabytes_converter_excersise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Udemy_Course_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy_Course_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Udemy_Course_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy_Course_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -209,6 +214,12 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="section_5.methods.equal_sum_checker_excer" />
+      <recent name="section_5.methods.decimal_comparator_excer" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -222,7 +233,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainMethods">
+  <component name="RunManager" selected="JUnit.EqualSumCheckerTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -233,39 +244,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="section_5.methods.barking_dog_excer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="MainDemoExcersise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_5.methods.method_demo_excersise.MainDemoExcersise" />
-      <module name="Udemy_Course_1" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="section_5.methods.method_demo_excersise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="MainIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_5.if_then_else_control_statament.MainIfElse" />
-      <module name="Udemy_Course_1" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="section_5.if_then_else_control_statament.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="MainMegaBytes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_5.methods.megabytes_converter_excersise.MainMegaBytes" />
-      <module name="Udemy_Course_1" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="section_5.methods.megabytes_converter_excersise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,6 +261,57 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="EqualByThreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Udemy_Course_1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EqualByThreeTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="EqualByThreeTest.isTrueThatEqualByThreeDecimalOlaces" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Udemy_Course_1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EqualByThreeTest" />
+      <option name="METHOD_NAME" value="isTrueThatEqualByThreeDecimalOlaces" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="EqualSumCheckerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Udemy_Course_1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EqualSumCheckerTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -323,19 +352,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.MainIfElse" />
       <item itemvalue="Application.MainMethods" />
-      <item itemvalue="Application.MainDemoExcersise" />
-      <item itemvalue="Application.MainMegaBytes" />
       <item itemvalue="Application.MainBarking" />
+      <item itemvalue="JUnit.EqualByThreeTest.isTrueThatEqualByThreeDecimalOlaces" />
+      <item itemvalue="JUnit.EqualByThreeTest" />
+      <item itemvalue="JUnit.EqualSumCheckerTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.EqualSumCheckerTest" />
+        <item itemvalue="JUnit.EqualByThreeTest" />
+        <item itemvalue="JUnit.EqualByThreeTest.isTrueThatEqualByThreeDecimalOlaces" />
         <item itemvalue="Application.MainMethods" />
         <item itemvalue="Application.MainBarking" />
-        <item itemvalue="Application.MainMegaBytes" />
-        <item itemvalue="Application.MainDemoExcersise" />
-        <item itemvalue="Application.MainIfElse" />
       </list>
     </recent_temporary>
   </component>
@@ -352,12 +381,41 @@
       <workItem from="1534075469292" duration="3198000" />
       <workItem from="1534082659157" duration="5011000" />
       <workItem from="1534174396292" duration="3232000" />
-      <workItem from="1534239818771" duration="12485000" />
+      <workItem from="1534239818771" duration="15722000" />
+      <workItem from="1534439406081" duration="4557000" />
     </task>
+    <task id="LOCAL-00001" summary="commit 14.08.2018">
+      <created>1534259756857</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1534259756857</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="EqualByThreeTest_isTrueThatEqualByThreeDecimalOlaces - 2018.08.16 at 20h 19m 13s.xml">
+      <configuration name="EqualByThreeTest.isTrueThatEqualByThreeDecimalOlaces" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EqualByThreeTest_isTrueThatEqualByThreeDecimalOlaces - 2018.08.16 at 20h 20m 08s.xml">
+      <configuration name="EqualByThreeTest.isTrueThatEqualByThreeDecimalOlaces" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EqualByThreeTest_isTrueThatEqualByThreeDecimalOlaces - 2018.08.16 at 20h 44m 40s.xml">
+      <configuration name="EqualByThreeTest.isTrueThatEqualByThreeDecimalOlaces" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EqualByThreeTest_isTrueThatEqualByThreeDecimalOlaces - 2018.08.16 at 20h 58m 57s.xml">
+      <configuration name="EqualByThreeTest.isTrueThatEqualByThreeDecimalOlaces" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EqualByThreeTest_isTrueThatEqualByThreeDecimalOlaces - 2018.08.16 at 21h 00m 33s.xml">
+      <configuration name="EqualByThreeTest.isTrueThatEqualByThreeDecimalOlaces" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EqualByThreeTest - 2018.08.16 at 21h 02m 10s.xml">
+      <configuration name="EqualByThreeTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23926000" />
+    <option name="totallyTimeSpent" value="31720000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1296" height="1000" extended-state="6" />
@@ -377,7 +435,7 @@
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="4" />
-      <window_info content_ui="combo" x="356" y="414" width="326" height="599" id="Project" order="0" visible="true" weight="0.27022654" />
+      <window_info content_ui="combo" x="356" y="414" width="326" height="599" id="Project" order="0" visible="true" weight="0.27427185" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -401,7 +459,54 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit 14.08.2018" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 14.08.2018" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/barking_dog_excer/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/barking_dog_excer/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/barking_dog_excer/AnimalAlarm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/barking_dog_excer/MainBarking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/MainMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" column="19" lean-forward="true" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/method_demo_excersise/MainDemoExcersise.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -514,7 +619,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/barking_dog_excer/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="204">
           <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
           <folding>
             <element signature="e#139#140#0" expanded="true" />
@@ -527,32 +632,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/barking_dog_excer/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <element signature="e#111#112#0" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/barking_dog_excer/Cat.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/barking_dog_excer/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding>
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#148#149#0" expanded="true" />
-          </folding>
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/barking_dog_excer/AnimalAlarm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        <state relative-caret-position="255">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -565,8 +656,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/MainMethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="54" column="19" lean-forward="true" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+        <state relative-caret-position="520">
+          <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/decimal_comparator_excer/DecimalComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/equal_sum_checker_excer/EqualSumChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/EqualByThreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1155#1156#0" expanded="true" />
+            <element signature="e#1210#1211#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd4d8a8e-b9d3-4736-85ca-94c020ad6a14" name="Default" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/section_5/methods/decimal_comparator_excer/DecimalComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section_5/methods/equal_sum_checker_excer/EqualSumChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/EqualByThreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_5/methods/teen_number_checker_excer/TeenNumberChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/MainMethodsOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/seconds_and_minutes_challenge/MainSecondsAndMinutes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CalcFeetAndInchesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SecondsAndMinutesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TeenNumberCheckerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section_5/methods/MainMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/section_5/methods/MainMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section_5/methods/decimal_comparator_excer/DecimalComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/section_5/methods/decimal_comparator_excer/DecimalComparator.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,33 +23,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="EqualSumChecker.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/equal_sum_checker_excer/EqualSumChecker.java">
+      <file leaf-file-name="MainSecondsAndMinutes.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods_overloading/seconds_and_minutes_challenge/MainSecondsAndMinutes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            <state relative-caret-position="85">
+              <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DecimalComparator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/decimal_comparator_excer/DecimalComparator.java">
+      <file leaf-file-name="SecondsAndMinutesTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SecondsAndMinutesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EqualByThreeTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/EqualByThreeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="935">
-              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+            <state relative-caret-position="221">
+              <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1155#1156#0" expanded="true" />
-                <element signature="e#1210#1211#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -82,9 +74,17 @@
         <option value="$PROJECT_DIR$/src/main/java/section_5/methods/barking_dog_excer/AnimalAlarm.java" />
         <option value="$PROJECT_DIR$/src/main/java/section_5/methods/barking_dog_excer/MainBarking.java" />
         <option value="$PROJECT_DIR$/src/main/java/section_5/methods/MainMethods.java" />
-        <option value="$PROJECT_DIR$/src/main/java/section_5/methods/decimal_comparator_excer/DecimalComparator.java" />
         <option value="$PROJECT_DIR$/src/main/java/section_5/methods/equal_sum_checker_excer/EqualSumChecker.java" />
+        <option value="$PROJECT_DIR$/src/test/java/EqualSumCheckerTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/EqualByThreeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_5/methods/decimal_comparator_excer/DecimalComparator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TeenNumberCheckerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_5/methods/teen_number_checker_excer/TeenNumberChecker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/Numbers.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CalcFeetAndInchesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/MainMethodsOverloading.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SecondsAndMinutesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/seconds_and_minutes_challenge/MainSecondsAndMinutes.java" />
       </list>
     </option>
   </component>
@@ -98,10 +98,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+    <option name="x" value="133" />
+    <option name="y" value="184" />
+    <option name="width" value="891" />
+    <option name="height" value="718" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -111,9 +111,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -154,7 +152,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="section_5" type="462c0819:PsiDirectoryNode" />
-              <item name="methods" type="462c0819:PsiDirectoryNode" />
+              <item name="methods_overloading" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Udemy_Course_1" type="b2602c69:ProjectViewProjectNode" />
@@ -163,28 +161,8 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="section_5" type="462c0819:PsiDirectoryNode" />
-              <item name="methods" type="462c0819:PsiDirectoryNode" />
-              <item name="barking_dog_excer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy_Course_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy_Course_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="section_5" type="462c0819:PsiDirectoryNode" />
-              <item name="methods" type="462c0819:PsiDirectoryNode" />
-              <item name="decimal_comparator_excer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy_Course_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy_Course_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="section_5" type="462c0819:PsiDirectoryNode" />
-              <item name="methods" type="462c0819:PsiDirectoryNode" />
-              <item name="megabytes_converter_excersise" type="462c0819:PsiDirectoryNode" />
+              <item name="methods_overloading" type="462c0819:PsiDirectoryNode" />
+              <item name="seconds_and_minutes_challenge" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Udemy_Course_1" type="b2602c69:ProjectViewProjectNode" />
@@ -203,6 +181,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -217,6 +197,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="section_5.methods.teen_number_checker_excer" />
       <recent name="section_5.methods.equal_sum_checker_excer" />
       <recent name="section_5.methods.decimal_comparator_excer" />
     </key>
@@ -233,28 +214,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.EqualSumCheckerTest">
+  <component name="RunManager" selected="Application.MainSecondsAndMinutes">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="MainBarking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_5.methods.barking_dog_excer.MainBarking" />
+    <configuration name="MainMethodsOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_5.methods_overloading.MainMethodsOverloading" />
       <module name="Udemy_Course_1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section_5.methods.barking_dog_excer.*" />
+          <option name="PATTERN" value="section_5.methods_overloading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MainMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_5.methods.MainMethods" />
+    <configuration name="MainSecondsAndMinutes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_5.methods_overloading.seconds_and_minutes_challenge.MainSecondsAndMinutes" />
       <module name="Udemy_Course_1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section_5.methods.*" />
+          <option name="PATTERN" value="section_5.methods_overloading.seconds_and_minutes_challenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,30 +243,13 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="EqualByThreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CalcFeetAndInchesTest.isFeetAndInchesValidate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Udemy_Course_1" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EqualByThreeTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="EqualByThreeTest.isTrueThatEqualByThreeDecimalOlaces" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Udemy_Course_1" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EqualByThreeTest" />
-      <option name="METHOD_NAME" value="isTrueThatEqualByThreeDecimalOlaces" />
+      <option name="MAIN_CLASS_NAME" value="CalcFeetAndInchesTest" />
+      <option name="METHOD_NAME" value="isFeetAndInchesValidate" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -296,14 +260,31 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="EqualSumCheckerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SecondsAndMinutesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Udemy_Course_1" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EqualSumCheckerTest" />
+      <option name="MAIN_CLASS_NAME" value="SecondsAndMinutesTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="SecondsAndMinutesTest.isGetDurationStringValidationTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Udemy_Course_1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SecondsAndMinutesTest" />
+      <option name="METHOD_NAME" value="isGetDurationStringValidationTrue" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -352,19 +333,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.MainMethods" />
-      <item itemvalue="Application.MainBarking" />
-      <item itemvalue="JUnit.EqualByThreeTest.isTrueThatEqualByThreeDecimalOlaces" />
-      <item itemvalue="JUnit.EqualByThreeTest" />
-      <item itemvalue="JUnit.EqualSumCheckerTest" />
+      <item itemvalue="Application.MainMethodsOverloading" />
+      <item itemvalue="JUnit.CalcFeetAndInchesTest.isFeetAndInchesValidate" />
+      <item itemvalue="JUnit.SecondsAndMinutesTest.isGetDurationStringValidationTrue" />
+      <item itemvalue="JUnit.SecondsAndMinutesTest" />
+      <item itemvalue="Application.MainSecondsAndMinutes" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.EqualSumCheckerTest" />
-        <item itemvalue="JUnit.EqualByThreeTest" />
-        <item itemvalue="JUnit.EqualByThreeTest.isTrueThatEqualByThreeDecimalOlaces" />
-        <item itemvalue="Application.MainMethods" />
-        <item itemvalue="Application.MainBarking" />
+        <item itemvalue="Application.MainSecondsAndMinutes" />
+        <item itemvalue="JUnit.SecondsAndMinutesTest" />
+        <item itemvalue="JUnit.SecondsAndMinutesTest.isGetDurationStringValidationTrue" />
+        <item itemvalue="JUnit.CalcFeetAndInchesTest.isFeetAndInchesValidate" />
+        <item itemvalue="Application.MainMethodsOverloading" />
       </list>
     </recent_temporary>
   </component>
@@ -382,7 +363,9 @@
       <workItem from="1534082659157" duration="5011000" />
       <workItem from="1534174396292" duration="3232000" />
       <workItem from="1534239818771" duration="15722000" />
-      <workItem from="1534439406081" duration="4557000" />
+      <workItem from="1534439406081" duration="4962000" />
+      <workItem from="1534592955490" duration="9667000" />
+      <workItem from="1534665144839" duration="7154000" />
     </task>
     <task id="LOCAL-00001" summary="commit 14.08.2018">
       <created>1534259756857</created>
@@ -395,27 +378,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EqualByThreeTest_isTrueThatEqualByThreeDecimalOlaces - 2018.08.16 at 20h 19m 13s.xml">
-      <configuration name="EqualByThreeTest.isTrueThatEqualByThreeDecimalOlaces" configurationId="JUnit" />
+    <history-entry file="SecondsAndMinutesTest_isGetDurationStringValidationTrue - 2018.08.19 at 10h 05m 39s.xml">
+      <configuration name="SecondsAndMinutesTest.isGetDurationStringValidationTrue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EqualByThreeTest_isTrueThatEqualByThreeDecimalOlaces - 2018.08.16 at 20h 20m 08s.xml">
-      <configuration name="EqualByThreeTest.isTrueThatEqualByThreeDecimalOlaces" configurationId="JUnit" />
+    <history-entry file="SecondsAndMinutesTest_isGetDurationStringValidationTrue - 2018.08.19 at 10h 05m 56s.xml">
+      <configuration name="SecondsAndMinutesTest.isGetDurationStringValidationTrue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EqualByThreeTest_isTrueThatEqualByThreeDecimalOlaces - 2018.08.16 at 20h 44m 40s.xml">
-      <configuration name="EqualByThreeTest.isTrueThatEqualByThreeDecimalOlaces" configurationId="JUnit" />
+    <history-entry file="SecondsAndMinutesTest_isGetDurationStringValidationTrue - 2018.08.19 at 10h 06m 36s.xml">
+      <configuration name="SecondsAndMinutesTest.isGetDurationStringValidationTrue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EqualByThreeTest_isTrueThatEqualByThreeDecimalOlaces - 2018.08.16 at 20h 58m 57s.xml">
-      <configuration name="EqualByThreeTest.isTrueThatEqualByThreeDecimalOlaces" configurationId="JUnit" />
+    <history-entry file="SecondsAndMinutesTest_isGetDurationStringValidationTrue - 2018.08.19 at 10h 08m 38s.xml">
+      <configuration name="SecondsAndMinutesTest.isGetDurationStringValidationTrue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EqualByThreeTest_isTrueThatEqualByThreeDecimalOlaces - 2018.08.16 at 21h 00m 33s.xml">
-      <configuration name="EqualByThreeTest.isTrueThatEqualByThreeDecimalOlaces" configurationId="JUnit" />
+    <history-entry file="SecondsAndMinutesTest_isGetDurationStringValidationTrue - 2018.08.19 at 10h 10m 43s.xml">
+      <configuration name="SecondsAndMinutesTest.isGetDurationStringValidationTrue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EqualByThreeTest - 2018.08.16 at 21h 02m 10s.xml">
-      <configuration name="EqualByThreeTest" configurationId="JUnit" />
+    <history-entry file="SecondsAndMinutesTest_isGetDurationStringValidationTrue - 2018.08.19 at 10h 10m 55s.xml">
+      <configuration name="SecondsAndMinutesTest.isGetDurationStringValidationTrue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecondsAndMinutesTest_isGetDurationStringValidationTrue - 2018.08.19 at 10h 11m 11s.xml">
+      <configuration name="SecondsAndMinutesTest.isGetDurationStringValidationTrue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecondsAndMinutesTest_isGetDurationStringValidationTrue - 2018.08.19 at 10h 24m 30s.xml">
+      <configuration name="SecondsAndMinutesTest.isGetDurationStringValidationTrue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecondsAndMinutesTest_isGetDurationStringValidationTrue - 2018.08.19 at 10h 24m 55s.xml">
+      <configuration name="SecondsAndMinutesTest.isGetDurationStringValidationTrue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecondsAndMinutesTest - 2018.08.19 at 10h 48m 47s.xml">
+      <configuration name="SecondsAndMinutesTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31720000" />
+    <option name="totallyTimeSpent" value="48946000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1296" height="1000" extended-state="6" />
@@ -431,11 +426,11 @@
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="2" />
-      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.3345238" />
-      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.3345238" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3297619" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="4" />
-      <window_info content_ui="combo" x="356" y="414" width="326" height="599" id="Project" order="0" visible="true" weight="0.27427185" />
+      <window_info content_ui="combo" x="356" y="414" width="326" height="599" id="Project" order="0" visible="true" weight="0.27993527" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -443,10 +438,10 @@
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info id="Nl-Palette" order="2" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="right" id="Properties" order="5" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -464,18 +459,51 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit 14.08.2018" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods_overloading/seconds_and_minutes_challenge/MainSecondsAndMinutes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="70" lean-forward="true" selection-start-line="16" selection-start-column="70" selection-end-line="16" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/equal_sum_checker_excer/EqualSumChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/EqualByThreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/EqualSumCheckerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/decimal_comparator_excer/DecimalComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/barking_dog_excer/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-          <folding>
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -592,14 +620,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-          <folding>
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -621,14 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-          <folding>
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -661,13 +673,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/decimal_comparator_excer/DecimalComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/equal_sum_checker_excer/EqualSumChecker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -675,15 +680,100 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/decimal_comparator_excer/DecimalComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/EqualByThreeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1155#1156#0" expanded="true" />
-            <element signature="e#1210#1211#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/EqualSumCheckerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TeenNumberCheckerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/teen_number_checker_excer/TeenNumberChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CalcFeetAndInchesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="119" selection-start-line="16" selection-start-column="119" selection-end-line="16" selection-end-column="119" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods_overloading/MainMethodsOverloading.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods_overloading/Numbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SecondsAndMinutesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods_overloading/seconds_and_minutes_challenge/MainSecondsAndMinutes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
         </state>
       </provider>
     </entry>

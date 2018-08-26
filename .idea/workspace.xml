@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd4d8a8e-b9d3-4736-85ca-94c020ad6a14" name="Default" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/section_5/methods/teen_number_checker_excer/TeenNumberChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/MainMethodsOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/seconds_and_minutes_challenge/MainSecondsAndMinutes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CalcFeetAndInchesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SecondsAndMinutesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TeenNumberCheckerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/area_calculator_excer/CalculateCircleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/area_calculator_excer/CalculateRectangleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/area_calculator_excer/Calculating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/area_calculator_excer/MainAreaCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/area_calculator_excer/Parameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/equality_printer_excer/EqualityPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/equality_printer_excer/EqulityPrinterParameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/minutes_to_years_excer/MinutesToYearsAndDays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/playing_cat_excer/PlayingCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/playing_cat_excer/PlayingCatParameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_6_control_flow/MainSection6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_6_control_flow/switch_statement/SwithChallenge1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AreaCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PlayingCatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SwithChallenge1Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section_5/methods/decimal_comparator_excer/DecimalComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/section_5/methods/decimal_comparator_excer/DecimalComparator.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,23 +30,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainSecondsAndMinutes.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods_overloading/seconds_and_minutes_challenge/MainSecondsAndMinutes.java">
+      <file leaf-file-name="SwithChallenge1Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SwithChallenge1Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+            <state relative-caret-position="323">
+              <caret line="19" column="86" selection-start-line="19" selection-start-column="86" selection-end-line="19" selection-end-column="86" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SecondsAndMinutesTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/SecondsAndMinutesTest.java">
+      <file leaf-file-name="SwithChallenge1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/switch_statement/SwithChallenge1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="408">
+              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -49,6 +56,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -85,6 +93,20 @@
         <option value="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/MainMethodsOverloading.java" />
         <option value="$PROJECT_DIR$/src/test/java/SecondsAndMinutesTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/seconds_and_minutes_challenge/MainSecondsAndMinutes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/area_calculator_excer/Calculating.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/area_calculator_excer/Parameters.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/area_calculator_excer/MainAreaCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/area_calculator_excer/CalculateRectangleArea.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/area_calculator_excer/CalculateCircleArea.java" />
+        <option value="$PROJECT_DIR$/src/test/java/AreaCalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/minutes_to_years_excer/MinutesToYearsAndDays.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/equality_printer_excer/EqualityPrinter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/equality_printer_excer/EqulityPrinterParameters.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PlayingCatTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/playing_cat_excer/PlayingCat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/playing_cat_excer/PlayingCatParameters.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SwithChallenge1Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_6_control_flow/switch_statement/SwithChallenge1.java" />
       </list>
     </option>
   </component>
@@ -112,6 +134,7 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,7 +166,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="section_5" type="462c0819:PsiDirectoryNode" />
+              <item name="section_6_control_flow" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Udemy_Course_1" type="b2602c69:ProjectViewProjectNode" />
@@ -151,18 +174,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="section_5" type="462c0819:PsiDirectoryNode" />
-              <item name="methods_overloading" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy_Course_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy_Course_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="section_5" type="462c0819:PsiDirectoryNode" />
-              <item name="methods_overloading" type="462c0819:PsiDirectoryNode" />
-              <item name="seconds_and_minutes_challenge" type="462c0819:PsiDirectoryNode" />
+              <item name="section_6_control_flow" type="462c0819:PsiDirectoryNode" />
+              <item name="switch_statement" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Udemy_Course_1" type="b2602c69:ProjectViewProjectNode" />
@@ -181,13 +194,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Dynamic Web Project" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -197,9 +210,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="section_6_control_flow.switch_statement" />
+      <recent name="section_5.methods_overloading.playing_cat_excer" />
+      <recent name="section_5.methods_overloading.area_calculator_excer" />
       <recent name="section_5.methods.teen_number_checker_excer" />
       <recent name="section_5.methods.equal_sum_checker_excer" />
-      <recent name="section_5.methods.decimal_comparator_excer" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -214,28 +229,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainSecondsAndMinutes">
+  <component name="RunManager" selected="Application.SwithChallenge1">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="MainMethodsOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_5.methods_overloading.MainMethodsOverloading" />
+    <configuration name="EqualityPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_5.methods_overloading.equality_printer_excer.EqualityPrinter" />
       <module name="Udemy_Course_1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section_5.methods_overloading.*" />
+          <option name="PATTERN" value="section_5.methods_overloading.equality_printer_excer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MainSecondsAndMinutes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_5.methods_overloading.seconds_and_minutes_challenge.MainSecondsAndMinutes" />
+    <configuration name="PlayingCat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_5.methods_overloading.playing_cat_excer.PlayingCat" />
       <module name="Udemy_Course_1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section_5.methods_overloading.seconds_and_minutes_challenge.*" />
+          <option name="PATTERN" value="section_5.methods_overloading.playing_cat_excer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SwithChallenge1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_6_control_flow.switch_statement.SwithChallenge1" />
+      <module name="Udemy_Course_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section_6_control_flow.switch_statement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,13 +269,13 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="CalcFeetAndInchesTest.isFeetAndInchesValidate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PlayingCatTest.isPlayingCatMethodWorking" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Udemy_Course_1" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CalcFeetAndInchesTest" />
-      <option name="METHOD_NAME" value="isFeetAndInchesValidate" />
+      <option name="MAIN_CLASS_NAME" value="PlayingCatTest" />
+      <option name="METHOD_NAME" value="isPlayingCatMethodWorking" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -260,30 +286,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="SecondsAndMinutesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SwithChallenge1Test.isSwitchReturningCorrectCharVariable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Udemy_Course_1" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SecondsAndMinutesTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="SecondsAndMinutesTest.isGetDurationStringValidationTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Udemy_Course_1" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SecondsAndMinutesTest" />
-      <option name="METHOD_NAME" value="isGetDurationStringValidationTrue" />
+      <option name="MAIN_CLASS_NAME" value="SwithChallenge1Test" />
+      <option name="METHOD_NAME" value="isSwitchReturningCorrectCharVariable" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -333,19 +342,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.MainMethodsOverloading" />
-      <item itemvalue="JUnit.CalcFeetAndInchesTest.isFeetAndInchesValidate" />
-      <item itemvalue="JUnit.SecondsAndMinutesTest.isGetDurationStringValidationTrue" />
-      <item itemvalue="JUnit.SecondsAndMinutesTest" />
-      <item itemvalue="Application.MainSecondsAndMinutes" />
+      <item itemvalue="Application.EqualityPrinter" />
+      <item itemvalue="JUnit.PlayingCatTest.isPlayingCatMethodWorking" />
+      <item itemvalue="Application.PlayingCat" />
+      <item itemvalue="JUnit.SwithChallenge1Test.isSwitchReturningCorrectCharVariable" />
+      <item itemvalue="Application.SwithChallenge1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainSecondsAndMinutes" />
-        <item itemvalue="JUnit.SecondsAndMinutesTest" />
-        <item itemvalue="JUnit.SecondsAndMinutesTest.isGetDurationStringValidationTrue" />
-        <item itemvalue="JUnit.CalcFeetAndInchesTest.isFeetAndInchesValidate" />
-        <item itemvalue="Application.MainMethodsOverloading" />
+        <item itemvalue="Application.SwithChallenge1" />
+        <item itemvalue="JUnit.SwithChallenge1Test.isSwitchReturningCorrectCharVariable" />
+        <item itemvalue="Application.PlayingCat" />
+        <item itemvalue="JUnit.PlayingCatTest.isPlayingCatMethodWorking" />
+        <item itemvalue="Application.EqualityPrinter" />
       </list>
     </recent_temporary>
   </component>
@@ -366,6 +375,14 @@
       <workItem from="1534439406081" duration="4962000" />
       <workItem from="1534592955490" duration="9667000" />
       <workItem from="1534665144839" duration="7154000" />
+      <workItem from="1534781029259" duration="5726000" />
+      <workItem from="1534865430651" duration="5716000" />
+      <workItem from="1534878927480" duration="98000" />
+      <workItem from="1534879341131" duration="153000" />
+      <workItem from="1535118755404" duration="5009000" />
+      <workItem from="1535180923200" duration="578000" />
+      <workItem from="1535215678313" duration="16000" />
+      <workItem from="1535216324814" duration="11515000" />
     </task>
     <task id="LOCAL-00001" summary="commit 14.08.2018">
       <created>1534259756857</created>
@@ -378,46 +395,54 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SecondsAndMinutesTest_isGetDurationStringValidationTrue - 2018.08.19 at 10h 05m 39s.xml">
-      <configuration name="SecondsAndMinutesTest.isGetDurationStringValidationTrue" configurationId="JUnit" />
+    <history-entry file="SwithChallenge1Test_isSwitchReturningCorrectCharVariable - 2018.08.26 at 11h 45m 31s.xml">
+      <configuration name="SwithChallenge1Test.isSwitchReturningCorrectCharVariable" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SecondsAndMinutesTest_isGetDurationStringValidationTrue - 2018.08.19 at 10h 05m 56s.xml">
-      <configuration name="SecondsAndMinutesTest.isGetDurationStringValidationTrue" configurationId="JUnit" />
+    <history-entry file="SwithChallenge1Test_isSwitchReturningCorrectCharVariable - 2018.08.26 at 11h 45m 47s.xml">
+      <configuration name="SwithChallenge1Test.isSwitchReturningCorrectCharVariable" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SecondsAndMinutesTest_isGetDurationStringValidationTrue - 2018.08.19 at 10h 06m 36s.xml">
-      <configuration name="SecondsAndMinutesTest.isGetDurationStringValidationTrue" configurationId="JUnit" />
+    <history-entry file="SwithChallenge1Test_isSwitchReturningCorrectCharVariable - 2018.08.26 at 11h 47m 23s.xml">
+      <configuration name="SwithChallenge1Test.isSwitchReturningCorrectCharVariable" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SecondsAndMinutesTest_isGetDurationStringValidationTrue - 2018.08.19 at 10h 08m 38s.xml">
-      <configuration name="SecondsAndMinutesTest.isGetDurationStringValidationTrue" configurationId="JUnit" />
+    <history-entry file="SwithChallenge1Test_isSwitchReturningCorrectCharVariable - 2018.08.26 at 11h 55m 18s.xml">
+      <configuration name="SwithChallenge1Test.isSwitchReturningCorrectCharVariable" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SecondsAndMinutesTest_isGetDurationStringValidationTrue - 2018.08.19 at 10h 10m 43s.xml">
-      <configuration name="SecondsAndMinutesTest.isGetDurationStringValidationTrue" configurationId="JUnit" />
+    <history-entry file="SwithChallenge1Test_isSwitchReturningCorrectCharVariable - 2018.08.26 at 11h 55m 48s.xml">
+      <configuration name="SwithChallenge1Test.isSwitchReturningCorrectCharVariable" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SecondsAndMinutesTest_isGetDurationStringValidationTrue - 2018.08.19 at 10h 10m 55s.xml">
-      <configuration name="SecondsAndMinutesTest.isGetDurationStringValidationTrue" configurationId="JUnit" />
+    <history-entry file="SwithChallenge1Test_isSwitchReturningCorrectCharVariable - 2018.08.26 at 11h 56m 01s.xml">
+      <configuration name="SwithChallenge1Test.isSwitchReturningCorrectCharVariable" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SecondsAndMinutesTest_isGetDurationStringValidationTrue - 2018.08.19 at 10h 11m 11s.xml">
-      <configuration name="SecondsAndMinutesTest.isGetDurationStringValidationTrue" configurationId="JUnit" />
+    <history-entry file="SwithChallenge1Test_isSwitchReturningCorrectCharVariable - 2018.08.26 at 11h 56m 15s.xml">
+      <configuration name="SwithChallenge1Test.isSwitchReturningCorrectCharVariable" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SecondsAndMinutesTest_isGetDurationStringValidationTrue - 2018.08.19 at 10h 24m 30s.xml">
-      <configuration name="SecondsAndMinutesTest.isGetDurationStringValidationTrue" configurationId="JUnit" />
+    <history-entry file="SwithChallenge1Test_isSwitchReturningCorrectCharVariable - 2018.08.26 at 11h 56m 37s.xml">
+      <configuration name="SwithChallenge1Test.isSwitchReturningCorrectCharVariable" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SecondsAndMinutesTest_isGetDurationStringValidationTrue - 2018.08.19 at 10h 24m 55s.xml">
-      <configuration name="SecondsAndMinutesTest.isGetDurationStringValidationTrue" configurationId="JUnit" />
+    <history-entry file="SwithChallenge1Test_isSwitchReturningCorrectCharVariable - 2018.08.26 at 11h 57m 15s.xml">
+      <configuration name="SwithChallenge1Test.isSwitchReturningCorrectCharVariable" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SecondsAndMinutesTest - 2018.08.19 at 10h 48m 47s.xml">
-      <configuration name="SecondsAndMinutesTest" configurationId="JUnit" />
+    <history-entry file="SwithChallenge1Test_isSwitchReturningCorrectCharVariable - 2018.08.26 at 11h 59m 08s.xml">
+      <configuration name="SwithChallenge1Test.isSwitchReturningCorrectCharVariable" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48946000" />
+    <option name="totallyTimeSpent" value="77757000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1296" height="1000" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="TODO" order="9" weight="0.3297619" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.3297619" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="6" />
@@ -425,12 +450,12 @@
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.3297619" />
       <window_info anchor="bottom" id="Run" order="10" weight="0.3345238" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.3297619" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="4" />
-      <window_info content_ui="combo" x="356" y="414" width="326" height="599" id="Project" order="0" visible="true" weight="0.27993527" />
+      <window_info content_ui="combo" x="356" y="414" width="326" height="599" id="Project" order="0" visible="true" weight="0.31877023" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -438,10 +463,10 @@
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info id="Nl-Palette" order="2" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info id="Nl-Palette" order="2" />
       <window_info anchor="right" id="Properties" order="5" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -459,75 +484,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit 14.08.2018" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods_overloading/seconds_and_minutes_challenge/MainSecondsAndMinutes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="70" lean-forward="true" selection-start-line="16" selection-start-column="70" selection-end-line="16" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/equal_sum_checker_excer/EqualSumChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/EqualByThreeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/EqualSumCheckerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/decimal_comparator_excer/DecimalComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/barking_dog_excer/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/barking_dog_excer/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/barking_dog_excer/AnimalAlarm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/barking_dog_excer/MainBarking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/MainMethods.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="918">
@@ -691,9 +647,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -701,9 +654,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -711,11 +661,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
           <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -730,9 +675,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="119" selection-start-line="16" selection-start-column="119" selection-end-line="16" selection-end-column="119" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -747,33 +689,140 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/AreaCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
           <folding>
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods_overloading/area_calculator_excer/CalculateRectangleArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods_overloading/area_calculator_excer/MainAreaCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SecondsAndMinutesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="153">
           <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods_overloading/seconds_and_minutes_challenge/MainSecondsAndMinutes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="51" column="9" lean-forward="true" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods_overloading/minutes_to_years_excer/MinutesToYearsAndDays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods_overloading/area_calculator_excer/CalculateCircleArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods_overloading/area_calculator_excer/Calculating.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods_overloading/area_calculator_excer/Parameters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods_overloading/equality_printer_excer/EqulityPrinterParameters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods_overloading/equality_printer_excer/EqualityPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods_overloading/playing_cat_excer/PlayingCatParameters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PlayingCatTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods_overloading/playing_cat_excer/PlayingCat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="5" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/MainSection6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SwithChallenge1Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="86" selection-start-line="19" selection-start-column="86" selection-end-line="19" selection-end-column="86" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods_overloading/seconds_and_minutes_challenge/MainSecondsAndMinutes.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/switch_statement/SwithChallenge1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        <state relative-caret-position="408">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
         </state>
       </provider>
     </entry>

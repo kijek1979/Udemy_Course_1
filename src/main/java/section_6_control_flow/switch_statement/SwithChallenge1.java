@@ -2,7 +2,7 @@ package section_6_control_flow.switch_statement;
 
 public class SwithChallenge1 {
 
-    public char[] chars = {'E'};
+    public char[] chars = {'A'};
 
     public char[] switchMethod() {
 
@@ -23,7 +23,7 @@ public class SwithChallenge1 {
                 return chars2;
             default:
                 System.out.println("its not A or B or C or D letter");
-                chars2[0]= 'X';
+
 
         }
         return chars2;

@@ -2,11 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd4d8a8e-b9d3-4736-85ca-94c020ad6a14" name="Default" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/MainWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/digit_sum_challenge/DigitSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/number_palindrome_excer/NumberPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DigitSumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/unnamed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_6_control_flow/parsing/MainParsing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_6_control_flow/parsing/flour_pack_excer/Counts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_6_control_flow/parsing/flour_pack_excer/Packs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_6_control_flow/parsing/flour_pack_excer/SumIsGreaterThanGoalException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/AllFactorsExcer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/NumberToWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/PerfectNumberExcer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/even_digit_sum_excer/MainEvenSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/even_digit_sum_excer/model/NumberForEvenDigitSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/even_digit_sum_excer/service/EvenDigitSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/first_last_digit_sum_excer/FirstAndLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/first_last_digit_sum_excer/FirstAndLastDigitsSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/greatest_common_divisor_excer/GreatestCommonAdvisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/last_digit_checker_excer/LastDigitChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/shared_digit_excer/MainSharedDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/shared_digit_excer/model/DigitsForSharedDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/shared_digit_excer/service/MethodsForSharedDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/shared_digit_excer/service/SharedDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/EvenDigitSumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FirstAndLastDigitsSumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/section_6_control_flow/parsing/MainParsing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/section_6_control_flow/while_dowhile_statement/AllFactorsExcer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/section_6_control_flow/while_dowhile_statement/NumberToWords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/section_6_control_flow/while_dowhile_statement/PerfectNumberExcer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/section_6_control_flow/while_dowhile_statement/even_digit_sum_excer/MainEvenSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/section_6_control_flow/while_dowhile_statement/even_digit_sum_excer/model/NumberForEvenDigitSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/section_6_control_flow/while_dowhile_statement/even_digit_sum_excer/service/EvenDigitSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/section_6_control_flow/while_dowhile_statement/first_last_digit_sum_excer/FirstAndLast.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/section_6_control_flow/while_dowhile_statement/first_last_digit_sum_excer/FirstAndLastDigitsSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/section_6_control_flow/while_dowhile_statement/greatest_common_divisor_excer/GreatestCommonAdvisor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/section_6_control_flow/while_dowhile_statement/last_digit_checker_excer/LastDigitChecker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/section_6_control_flow/while_dowhile_statement/shared_digit_excer/MainSharedDigits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/section_6_control_flow/while_dowhile_statement/shared_digit_excer/model/DigitsForSharedDigits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/section_6_control_flow/while_dowhile_statement/shared_digit_excer/service/MethodsForSharedDigits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/section_6_control_flow/while_dowhile_statement/shared_digit_excer/service/SharedDigits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/EvenDigitSumTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/FirstAndLastDigitsSumTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/number_palindrome_excer/NumberPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/number_palindrome_excer/NumberPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section_6_control_flow/while_dowhile_statement/number_palindrome_excer/NumberPalindrome$PalindromeLogic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/section_6_control_flow/while_dowhile_statement/number_palindrome_excer/NumberPalindrome$PalindromeLogic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section_6_control_flow/while_dowhile_statement/number_palindrome_excer/NumberPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/section_6_control_flow/while_dowhile_statement/number_palindrome_excer/NumberPalindrome.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,26 +56,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DigitSum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/digit_sum_challenge/DigitSum.java">
+      <file leaf-file-name="MainParsing.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/parsing/MainParsing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="28" column="29" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="40" selection-end-column="5" />
+            <state relative-caret-position="391">
+              <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
               <folding>
-                <element signature="e#158#159#0" expanded="true" />
-                <element signature="e#187#188#0" expanded="true" />
-                <element signature="e#228#229#0" expanded="true" />
-                <element signature="e#264#265#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NumberPalindrome.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/number_palindrome_excer/NumberPalindrome.java">
+      <file leaf-file-name="Counts.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/parsing/flour_pack_excer/Counts.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="187">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <folding>
+                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#719#720#0" expanded="true" />
+                <element signature="e#751#752#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Packs.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/parsing/flour_pack_excer/Packs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="17" column="80" selection-start-line="17" selection-start-column="80" selection-end-line="17" selection-end-column="80" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -60,27 +114,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/EqualSumCheckerTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/EqualByThreeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/section_5/methods/decimal_comparator_excer/DecimalComparator.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TeenNumberCheckerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/section_5/methods/teen_number_checker_excer/TeenNumberChecker.java" />
-        <option value="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/Numbers.java" />
-        <option value="$PROJECT_DIR$/src/test/java/CalcFeetAndInchesTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/MainMethodsOverloading.java" />
-        <option value="$PROJECT_DIR$/src/test/java/SecondsAndMinutesTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/seconds_and_minutes_challenge/MainSecondsAndMinutes.java" />
-        <option value="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/area_calculator_excer/Calculating.java" />
-        <option value="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/area_calculator_excer/Parameters.java" />
-        <option value="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/area_calculator_excer/MainAreaCalculator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/area_calculator_excer/CalculateRectangleArea.java" />
-        <option value="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/area_calculator_excer/CalculateCircleArea.java" />
-        <option value="$PROJECT_DIR$/src/test/java/AreaCalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/minutes_to_years_excer/MinutesToYearsAndDays.java" />
-        <option value="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/equality_printer_excer/EqualityPrinter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/equality_printer_excer/EqulityPrinterParameters.java" />
-        <option value="$PROJECT_DIR$/src/test/java/PlayingCatTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/playing_cat_excer/PlayingCat.java" />
         <option value="$PROJECT_DIR$/src/main/java/section_5/methods_overloading/playing_cat_excer/PlayingCatParameters.java" />
         <option value="$PROJECT_DIR$/src/test/java/SwithChallenge1Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/section_6_control_flow/switch_statement/SwithChallenge1.java" />
@@ -110,7 +143,28 @@
         <option value="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/MainWhile.java" />
         <option value="$PROJECT_DIR$/src/test/java/DigitSumTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/digit_sum_challenge/DigitSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/first_last_digit_sum_excer/FirstAndLast.java" />
         <option value="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/number_palindrome_excer/NumberPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/first_last_digit_sum_excer/FirstAndLastDigitsSum.java" />
+        <option value="$PROJECT_DIR$/src/test/java/FirstAndLastDigitsSumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/even_digit_sum_excer/model/Number.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/even_digit_sum_excer/model/NumberForEvenDigitSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/even_digit_sum_excer/service/EvenDigitSum.java" />
+        <option value="$PROJECT_DIR$/src/test/java/EvenDigitSumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/shared_digit_excer/SharedDigit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/shared_digit_excer/model/DigitsForSharedDigits.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/shared_digit_excer/service/MethodsForSharedDigits.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/shared_digit_excer/MainSharedDigits.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/shared_digit_excer/service/SharedDigits.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/last_digit_checker_excer/LastDigitChecker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/greatest_common_divisor_excer/GreatestCommonAdvisor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/AllFactorsExcer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/PerfectNumberExcer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/NumberToWords.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_6_control_flow/parsing/flour_pack_excer/Counts.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_6_control_flow/parsing/flour_pack_excer/SumIsGreaterThanGoalException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_6_control_flow/parsing/MainParsing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/section_6_control_flow/parsing/flour_pack_excer/Packs.java" />
       </list>
     </option>
   </component>
@@ -124,8 +178,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="133" />
-    <option name="y" value="184" />
+    <option name="x" value="177" />
+    <option name="y" value="149" />
     <option name="width" value="891" />
     <option name="height" value="718" />
   </component>
@@ -137,9 +191,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,7 +231,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="section_6_control_flow" type="462c0819:PsiDirectoryNode" />
-              <item name="while_dowhile_statement" type="462c0819:PsiDirectoryNode" />
+              <item name="parsing" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Udemy_Course_1" type="b2602c69:ProjectViewProjectNode" />
@@ -189,8 +240,8 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="section_6_control_flow" type="462c0819:PsiDirectoryNode" />
-              <item name="while_dowhile_statement" type="462c0819:PsiDirectoryNode" />
-              <item name="number_palindrome_excer" type="462c0819:PsiDirectoryNode" />
+              <item name="parsing" type="462c0819:PsiDirectoryNode" />
+              <item name="flour_pack_excer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Udemy_Course_1" type="b2602c69:ProjectViewProjectNode" />
@@ -209,26 +260,32 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Dynamic Web Project" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="section_6_control_flow.while_dowhile_statement.first_last_digit_sum_excer" />
       <recent name="section_6_control_flow.while_dowhile_statement.digit_sum_challenge" />
       <recent name="section_6_control_flow.for_statement.sum_odd_excer" />
       <recent name="section_6_control_flow.switch_statement.number_in_word_excer" />
       <recent name="section_6_control_flow.switch_statement" />
-      <recent name="section_5.methods_overloading.playing_cat_excer" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -243,23 +300,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NumberPalindrome">
+  <component name="RunManager" selected="Application.MainParsing">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="DigitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_6_control_flow.while_dowhile_statement.digit_sum_challenge.DigitSum" />
-      <module name="Udemy_Course_1" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="section_6_control_flow.while_dowhile_statement.digit_sum_challenge.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="MainWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_6_control_flow.while_dowhile_statement.MainWhile" />
+    <configuration name="AllFactorsExcer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_6_control_flow.while_dowhile_statement.AllFactorsExcer" />
       <module name="Udemy_Course_1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -269,53 +315,52 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="NumberPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_6_control_flow.while_dowhile_statement.number_palindrome_excer.NumberPalindrome" />
+    <configuration name="GreatestCommonAdvisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_6_control_flow.while_dowhile_statement.greatest_common_divisor_excer.GreatestCommonAdvisor" />
       <module name="Udemy_Course_1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section_6_control_flow.while_dowhile_statement.number_palindrome_excer.*" />
+          <option name="PATTERN" value="section_6_control_flow.while_dowhile_statement.greatest_common_divisor_excer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MainParsing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_6_control_flow.parsing.MainParsing" />
+      <module name="Udemy_Course_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section_6_control_flow.parsing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="NumberToWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_6_control_flow.while_dowhile_statement.NumberToWords" />
+      <module name="Udemy_Course_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section_6_control_flow.while_dowhile_statement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="PerfectNumberExcer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_6_control_flow.while_dowhile_statement.PerfectNumberExcer" />
+      <module name="Udemy_Course_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section_6_control_flow.while_dowhile_statement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="DigitSumTest.isNumberBiggerOrEqualThan10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Udemy_Course_1" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DigitSumTest" />
-      <option name="METHOD_NAME" value="isNumberBiggerOrEqualThan10" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="DigitSumTest.isSumDigitMethodWorking" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Udemy_Course_1" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DigitSumTest" />
-      <option name="METHOD_NAME" value="isSumDigitMethodWorking" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -356,19 +401,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.MainWhile" />
-      <item itemvalue="JUnit.DigitSumTest.isNumberBiggerOrEqualThan10" />
-      <item itemvalue="JUnit.DigitSumTest.isSumDigitMethodWorking" />
-      <item itemvalue="Application.DigitSum" />
-      <item itemvalue="Application.NumberPalindrome" />
+      <item itemvalue="Application.GreatestCommonAdvisor" />
+      <item itemvalue="Application.AllFactorsExcer" />
+      <item itemvalue="Application.PerfectNumberExcer" />
+      <item itemvalue="Application.NumberToWords" />
+      <item itemvalue="Application.MainParsing" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NumberPalindrome" />
-        <item itemvalue="Application.DigitSum" />
-        <item itemvalue="JUnit.DigitSumTest.isSumDigitMethodWorking" />
-        <item itemvalue="JUnit.DigitSumTest.isNumberBiggerOrEqualThan10" />
-        <item itemvalue="Application.MainWhile" />
+        <item itemvalue="Application.MainParsing" />
+        <item itemvalue="Application.NumberToWords" />
+        <item itemvalue="Application.PerfectNumberExcer" />
+        <item itemvalue="Application.AllFactorsExcer" />
+        <item itemvalue="Application.GreatestCommonAdvisor" />
       </list>
     </recent_temporary>
   </component>
@@ -405,7 +450,12 @@
       <workItem from="1535874920425" duration="10748000" />
       <workItem from="1535989072328" duration="7782000" />
       <workItem from="1536159828865" duration="7043000" />
-      <workItem from="1536244302340" duration="10676000" />
+      <workItem from="1536244302340" duration="10914000" />
+      <workItem from="1536602645308" duration="6681000" />
+      <workItem from="1536997414868" duration="1373000" />
+      <workItem from="1536999723281" duration="18954000" />
+      <workItem from="1537455670298" duration="193000" />
+      <workItem from="1537542173054" duration="12366000" />
     </task>
     <task id="LOCAL-00001" summary="commit 14.08.2018">
       <created>1534259756857</created>
@@ -418,39 +468,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DigitSumTest_isNumberBiggerOrEqualThan10 - 2018.09.06 at 17h 12m 39s.xml">
-      <configuration name="DigitSumTest.isNumberBiggerOrEqualThan10" configurationId="JUnit" />
+    <history-entry file="EvenDigitSumTest_isNumberPositiveWorking - 2018.09.15 at 10h 41m 52s.xml">
+      <configuration name="EvenDigitSumTest.isNumberPositiveWorking" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DigitSumTest_isNumberBiggerOrEqualThan10 - 2018.09.06 at 17h 12m 52s.xml">
-      <configuration name="DigitSumTest.isNumberBiggerOrEqualThan10" configurationId="JUnit" />
+    <history-entry file="EvenDigitSumTest_isNumberPositiveWorking - 2018.09.15 at 10h 42m 08s.xml">
+      <configuration name="EvenDigitSumTest.isNumberPositiveWorking" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DigitSumTest_isNumberBiggerOrEqualThan10 - 2018.09.06 at 17h 20m 16s.xml">
-      <configuration name="DigitSumTest.isNumberBiggerOrEqualThan10" configurationId="JUnit" />
+    <history-entry file="EvenDigitSumTest_isGetEvenDigitSumMethodWorking - 2018.09.15 at 11h 04m 22s.xml">
+      <configuration name="EvenDigitSumTest.isGetEvenDigitSumMethodWorking" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DigitSumTest_isNumberBiggerOrEqualThan10 - 2018.09.06 at 17h 20m 27s.xml">
-      <configuration name="DigitSumTest.isNumberBiggerOrEqualThan10" configurationId="JUnit" />
+    <history-entry file="EvenDigitSumTest_isGetEvenDigitSumMethodWorking - 2018.09.15 at 11h 04m 43s.xml">
+      <configuration name="EvenDigitSumTest.isGetEvenDigitSumMethodWorking" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DigitSumTest_isSumDigitMethodWorking - 2018.09.06 at 17h 23m 52s.xml">
-      <configuration name="DigitSumTest.isSumDigitMethodWorking" configurationId="JUnit" />
+    <history-entry file="EvenDigitSumTest_isGetEvenDigitSumMethodWorking - 2018.09.15 at 11h 04m 59s.xml">
+      <configuration name="EvenDigitSumTest.isGetEvenDigitSumMethodWorking" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DigitSumTest_isSumDigitMethodWorking - 2018.09.06 at 17h 24m 07s.xml">
-      <configuration name="DigitSumTest.isSumDigitMethodWorking" configurationId="JUnit" />
+    <history-entry file="EvenDigitSumTest_isGetEvenDigitSumMethodWorking - 2018.09.15 at 11h 14m 53s.xml">
+      <configuration name="EvenDigitSumTest.isGetEvenDigitSumMethodWorking" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DigitSumTest_isNumberBiggerOrEqualThan10 - 2018.09.06 at 17h 24m 28s.xml">
-      <configuration name="DigitSumTest.isNumberBiggerOrEqualThan10" configurationId="JUnit" />
+    <history-entry file="EvenDigitSumTest_isGetEvenDigitSumMethodWorking - 2018.09.15 at 11h 15m 37s.xml">
+      <configuration name="EvenDigitSumTest.isGetEvenDigitSumMethodWorking" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DigitSumTest_isSumDigitMethodWorking - 2018.09.06 at 17h 25m 27s.xml">
-      <configuration name="DigitSumTest.isSumDigitMethodWorking" configurationId="JUnit" />
+    <history-entry file="EvenDigitSumTest_isGetEvenDigitSumMethodWorking - 2018.09.15 at 11h 15m 52s.xml">
+      <configuration name="EvenDigitSumTest.isGetEvenDigitSumMethodWorking" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DigitSumTest_isSumDigitMethodWorking - 2018.09.06 at 17h 48m 38s.xml">
-      <configuration name="DigitSumTest.isSumDigitMethodWorking" configurationId="JUnit" />
+    <history-entry file="EvenDigitSumTest_isGetEvenDigitSumMethodWorking - 2018.09.15 at 11h 16m 10s.xml">
+      <configuration name="EvenDigitSumTest.isGetEvenDigitSumMethodWorking" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DigitSumTest_isSumDigitMethodWorking - 2018.09.06 at 17h 54m 30s.xml">
-      <configuration name="DigitSumTest.isSumDigitMethodWorking" configurationId="JUnit" />
+    <history-entry file="EvenDigitSumTest_isGetEvenDigitSumMethodWorking - 2018.09.15 at 11h 16m 25s.xml">
+      <configuration name="EvenDigitSumTest.isGetEvenDigitSumMethodWorking" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134670000" />
+    <option name="totallyTimeSpent" value="174475000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -479,7 +529,7 @@
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.3297619" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="4" />
-      <window_info content_ui="combo" x="356" y="414" width="326" height="599" id="Project" order="0" visible="true" weight="0.19255663" />
+      <window_info content_ui="combo" x="356" y="414" width="326" height="599" id="Project" order="0" visible="true" weight="0.25970873" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -487,14 +537,14 @@
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info id="Nl-Palette" order="2" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info id="Nl-Palette" order="2" />
       <window_info anchor="right" id="Properties" order="5" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3297619" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -509,202 +559,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <option name="time" value="7" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/CalcFeetAndInchesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="119" selection-start-line="16" selection-start-column="119" selection-end-line="16" selection-end-column="119" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods_overloading/MainMethodsOverloading.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods_overloading/Numbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/AreaCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods_overloading/area_calculator_excer/CalculateRectangleArea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods_overloading/area_calculator_excer/MainAreaCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods_overloading/seconds_and_minutes_challenge/MainSecondsAndMinutes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="51" column="9" lean-forward="true" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods_overloading/minutes_to_years_excer/MinutesToYearsAndDays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods_overloading/area_calculator_excer/CalculateCircleArea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods_overloading/area_calculator_excer/Calculating.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods_overloading/area_calculator_excer/Parameters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods_overloading/equality_printer_excer/EqulityPrinterParameters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods_overloading/equality_printer_excer/EqualityPrinter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods_overloading/playing_cat_excer/PlayingCatParameters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods_overloading/playing_cat_excer/PlayingCat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="5" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/switch_statement/SwithChallenge1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/switch_statement/day_of_week_challenge/DaysOfWeek.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/switch_statement/day_of_week_challenge/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/switch_statement/day_of_week_challenge/NumberOfDay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="82" selection-start-line="82" selection-end-line="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/switch_statement/day_of_week_challenge/Observable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/switch_statement/day_of_week_challenge/MessageWhichDay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="33" column="59" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/switch_statement/day_of_week_challenge/Main_DayOfWeek.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/EqualByThreeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/equal_sum_checker_excer/EqualSumChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/EqualSumCheckerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TeenNumberCheckerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SwithChallenge1Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="19" column="86" selection-start-line="19" selection-start-column="86" selection-end-line="19" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SecondsAndMinutesTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -824,13 +682,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/for_statement/sum_odd_excer/SumOdd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="52" column="37" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SumOddTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="571">
@@ -845,11 +696,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -860,29 +706,267 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/first_last_digit_sum_excer/FirstAndLast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="78" selection-start-line="4" selection-start-column="78" selection-end-line="4" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/first_last_digit_sum_excer/FirstAndLastDigitsSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="53" column="85" selection-start-line="53" selection-start-column="85" selection-end-line="53" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/FirstAndLastDigitsSumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/barking_dog_excer/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/barking_dog_excer/AnimalAlarm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/barking_dog_excer/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/decimal_comparator_excer/DecimalComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_5/methods/barking_dog_excer/MainBarking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/even_digit_sum_excer/model/Number.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/even_digit_sum_excer/MainEvenSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/even_digit_sum_excer/model/NumberForEvenDigitSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/EvenDigitSumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/digit_sum_challenge/DigitSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="28" column="29" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="40" selection-end-column="5" />
+        <state relative-caret-position="-85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/shared_digit_excer/SharedDigit.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/shared_digit_excer/service/MethodsForSharedDigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="70" selection-start-line="7" selection-start-column="70" selection-end-line="7" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/shared_digit_excer/model/DigitsForSharedDigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/shared_digit_excer/MainSharedDigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="85" selection-start-line="8" selection-start-column="85" selection-end-line="8" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/last_digit_checker_excer/LastDigitChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/shared_digit_excer/service/SharedDigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/greatest_common_divisor_excer/GreatestCommonAdvisor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/for_statement/sum_odd_excer/SumOdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="52" column="37" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/even_digit_sum_excer/service/EvenDigitSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="30" column="37" lean-forward="true" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/PerfectNumberExcer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
           <folding>
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/AllFactorsExcer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/number_palindrome_excer/NumberPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="227">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/while_dowhile_statement/NumberToWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
+          <folding>
+            <element signature="e#2482#2483#0" expanded="true" />
+            <element signature="e#2516#2517#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/parsing/flour_pack_excer/SumIsGreaterThanGoalException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/parsing/flour_pack_excer/Counts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#719#720#0" expanded="true" />
+            <element signature="e#751#752#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/parsing/MainParsing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/section_6_control_flow/parsing/flour_pack_excer/Packs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="17" column="80" selection-start-line="17" selection-start-column="80" selection-end-line="17" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>unnamed</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -906,8 +990,22 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Udemy_Course_1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

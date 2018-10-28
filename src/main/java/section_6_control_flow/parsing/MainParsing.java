@@ -19,8 +19,8 @@ public class MainParsing {
 //
 //        System.out.println(numberAsString+1);
 
-        Counts counts = new Counts(12);
+        Counts counts = new Counts(6);
         Packs packs = new Packs();
-        System.out.println(packs.canPack(counts, -2, 2));
+        System.out.println(packs.canPack(counts, 1, 0));
     }
 }

@@ -12,7 +12,7 @@ public class Packs {
 
 
         if (counts.getGoal() > ((bigCount * BIGCOUNT) + (smallCount * SMALLCOUNT))) {
-           
+
             if ((counts.getGoal() >= 0) && (bigCount >= 0) && (smallCount >= 0)){
                 int restFromBigCount = counts.getGoal() % (bigCount*BIGCOUNT);
                 if (restFromBigCount != 0) {
